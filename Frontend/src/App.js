@@ -14,7 +14,8 @@ function App() {
       <Navigation/>
       <Search />
 
-      <h3>Student Loans</h3>
+      <h3>Student Loans and tracking
+      </h3>
 
     </div>
   );
