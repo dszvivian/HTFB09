@@ -4,7 +4,7 @@
   #### Assign the repository name as HTF *<Problem_Statement_Code><Team_Number>*.
   ```
 Example :
-Repository Name : HTFC09
+Repository Name : HTFB09
 Problem Statement code -> C
 Team Number -> 09
 ```
