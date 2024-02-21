@@ -3,7 +3,7 @@
 pragma solidity >= 0.8.0 <0.9.0;
 
 //This is only use in Rinkeby testnet
-import "./priceConvertRinkeby.sol"; 
+import "./priceConvert.sol"; 
 
 // Build the Contract for student side 
 contract StuDetails
